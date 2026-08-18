@@ -35,4 +35,11 @@ src="https://custom-icon-badges.demolab.com/github/followers/SpiderTheLike?color
        src="https://github-stats-extended.vercel.app/api/top-langs/?username=SpiderTheLike&theme=transparent&layout=compact&custom_title=Tecnologias&langs_count=8&hide_border=true"/>
 </p>
 
+## 🐍 Contribuições
+
+<p align="center">
+  <img
+    src="https://raw.githubusercontent.com/chairass/chairass/gh-pages/github-contribution-grid-snake-dark.svg"
+    alt="Animação das contribuições"
+  />
 </p>
