@@ -39,7 +39,7 @@ src="https://custom-icon-badges.demolab.com/github/followers/SpiderTheLike?color
 
 <p align="center">
   <img
-    src="https://raw.githubusercontent.com/SpiderTheLike/SpiderTheLike/gh-pages/github-contribution-grid-snake-dark.svg"
+    src="https://raw.githubusercontent.com/chairass/chairass/gh-pages/github-contribution-grid-snake-dark.svg"
     alt="Animação das contribuições"
   />
 </p>
